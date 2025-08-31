@@ -6,7 +6,7 @@
 
 ###
 
-<!-- Social Links (Dark unique style, spaced) -->
+<!-- Social Links -->
 <a href="https://x.com/Khurd_Tejas" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-0f172a?style=for-the-badge&logo=twitter&logoColor=1DA1F2" height="35" alt="twitter logo" />
 </a>
@@ -19,7 +19,7 @@
 
 <!-- Languages Widget -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejas-Khurd-dev&layout=compact&langs_count=6&theme=blue_navy&hide_border=true" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejas-Khurd-dev&layout=compact&langs_count=6&theme=blue_navy&hide_border=true&cache_seconds=1800" 
        height="160" 
        style="background:#0f172a; border:2px solid #1DA1F2; border-radius:12px; padding:10px;" 
        alt="languages graph" />
