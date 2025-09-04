@@ -1,4 +1,10 @@
-<h2>Hi there 👋</h2>
+<h2>
+  Hi there 
+  <img src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/Hi.gif?raw=true" 
+       alt="hi gif" 
+       width="26" 
+       style="vertical-align: middle;" />
+</h2>
 
 ###
 
