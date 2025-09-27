@@ -5,7 +5,7 @@
 
 ### Software Engineer & Open Source Contributor
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2000&pause=800&color=2F81F7&center=false&vCenter=true&width=500&lines=Building+scalable+solutions;Open+source+advocate;Full+stack+developer;Problem+solver" alt="Professional tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2000&pause=800&color=2F81F7&center=false&vCenter=true&width=500&lines=Building+scalable+solutions;Open+source+advocate;Problem+solver" alt="Professional tagline" />
 
 <br>
 
