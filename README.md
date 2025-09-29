@@ -40,7 +40,8 @@ const tejas = {
 ---
 
 <sub>
-  <strong>Connect:</strong> 
+  <strong>Connect:</strong> •
   <a href="https://x.com/Khurd_Tejas">Twitter</a> • 
-  <a href="https://www.linkedin.com/in/tejas-s-khurd/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/tejas-s-khurd/">LinkedIn</a> •
+  <a href="https://tejas-khurd.vercel.app/">Portfolio</a>
 </sub>
