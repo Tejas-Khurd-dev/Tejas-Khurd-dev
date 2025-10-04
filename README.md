@@ -27,18 +27,14 @@ const tejas = {
 
 ### Activity Graph
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Khurd-dev&theme=react-dark&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FF6B35" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Khurd-dev&theme=react-        dark&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FF6B35" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
 
 ### Development Timeline
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/pacman-contribution-graph.svg">
-  </picture>
+<div align="center"> 
+  <img src="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/snake.svg" alt="Contribution timeline visualization"/> 
 </div>
 
 ---
