@@ -34,7 +34,7 @@ const tejas = {
 
 ### Development Timeline
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/github-contribution-grid-snake.svg" alt="Contribution timeline visualization"/>
+  <img src="https://raw.githubusercontent.com/Tejas-Khurd-dev/Tejas-Khurd-dev/output/snake.svg" alt="Contribution timeline visualization"/>
 </div>
 
 ---
