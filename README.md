@@ -30,7 +30,7 @@
 
 
 
-<img align="right" alt="Coding" width="251" src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/cute_girl.gif?raw=true">
+<img align="right" alt="Coding" width="251" src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/coder.gif?raw=true">
 
 <img src="https://streak-stats.demolab.com?user=Tejas-Khurd-dev&theme=github-dark-blue&hide_border=true&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="GitHub streak statistics"/>
 
