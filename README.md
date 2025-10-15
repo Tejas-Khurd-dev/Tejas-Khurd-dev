@@ -1,7 +1,4 @@
-<h1>
-  Hey, I’m Tejas  
-  <img src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/gifs/Hi.gif?raw=true" alt="waving gif" width="32" />
-</h1>
+# Hey, I'm Tejas <img src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/gifs/Hi.gif?raw=true" alt="waving gif" width="32" />
 
 ### Computer Engineer & Open Source Contributor
 
@@ -28,11 +25,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
+
 <br>
 
 <img align="right" alt="Coding" width="251" src="https://github.com/Tejas-Khurd-dev/Tejas-Khurd-dev/blob/main/assets/gifs/coder.gif?raw=true" style="margin-right: 50px;">
 
-<img src="https://streak-stats.demolab.com?user=Tejas-Khurd-dev&theme=github-dark-blue&hide_border=true&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="GitHub streak statistics"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-Khurd-dev&theme=github-dark-blue&hide_border=true&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="GitHub streak statistics"/>
 
 <br>
 
